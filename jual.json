@@ -33,5 +33,12 @@
     "bio": "Buat Kartu Ucapan Ramadhan Kamu Versi Zxx Tools",
     "price": 1000,
     "preview_link": "https://zxx-kartu-ramadhan.vercel.app/"
+  },
+  {
+    "id": "prod_mmncffz5ezzi8",
+    "title": "Source Code IQC",
+    "bio": "buat gambar kamu seperti chat kayak IP bukan chatan sama mantan",
+    "price": 2500,
+    "preview_link": "https://zxx-tools-iqc.vercel.app/"
   }
 ]
