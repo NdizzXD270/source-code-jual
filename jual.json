@@ -19,5 +19,12 @@
     "bio": "LinkTree Versi Zxx Tools Mau Liat Website Gas Pencet Preview",
     "price": 3500,
     "preview_link": "https://zxx-create-linktree.vercel.app/"
+  },
+  {
+    "id": "prod_mmnccnm22gwii",
+    "title": "Source Code Url To QR",
+    "bio": "Buat Website Kamu Jadi QR",
+    "price": 1500,
+    "preview_link": "https://zxx-qr-code.vercel.app/"
   }
 ]
