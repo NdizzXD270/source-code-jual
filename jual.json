@@ -40,5 +40,12 @@
     "bio": "buat gambar kamu seperti chat kayak IP bukan chatan sama mantan",
     "price": 2500,
     "preview_link": "https://zxx-tools-iqc.vercel.app/"
+  },
+  {
+    "id": "prod_mmncgfop3h4v1",
+    "title": "Source Code Spam Bot Telegram",
+    "bio": "Rasuk Bot Orang Sampe Mampus",
+    "price": 2500,
+    "preview_link": "https://zxx-spam-bot-tele.vercel.app/"
   }
 ]
