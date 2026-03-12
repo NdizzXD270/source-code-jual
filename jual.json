@@ -26,5 +26,12 @@
     "bio": "Buat Website Kamu Jadi QR",
     "price": 1500,
     "preview_link": "https://zxx-qr-code.vercel.app/"
+  },
+  {
+    "id": "prod_mmnce4msv1wf2",
+    "title": "Source Code Kartu Ramadhan",
+    "bio": "Buat Kartu Ucapan Ramadhan Kamu Versi Zxx Tools",
+    "price": 1000,
+    "preview_link": "https://zxx-kartu-ramadhan.vercel.app/"
   }
 ]
